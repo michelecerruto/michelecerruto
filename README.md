@@ -2,7 +2,7 @@
 
 # Michele Cerruto
 
-**Founder of [M2C](https://m2clead.com) · Senior Full-Stack Engineer**
+**Founder of [M2C](https://m2clead.com) · Full-Stack Developer**
 
 *Shipping digital products in one-week sprints.*
 
